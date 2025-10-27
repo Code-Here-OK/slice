@@ -1,4 +1,3 @@
-# Vulnerability Detection Based on Code Slicing and Graph Neural Network
 ## Introduction
 This project aims to implement a vulnerability detection function based on code slicing and graph neural network (GNN) technology. Specifically, it can automatically identify potential vulnerabilities in code through program analysis and machine learning. The project extracts code structure information by constructing code property graphs (CPG), analyzes key code slices through program slicing, and trains a GNN model to achieve accurate vulnerability detection.
 ## Directory Structure
