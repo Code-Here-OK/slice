@@ -98,10 +98,5 @@ The project focuses on graph neural networks (Ordered GNN). The model details ar
 
 ## References
 ```BibTex
-@inproceedings{song2023ordered,
-    title={Ordered GNN: Ordering Message Passing to Deal with Heterophily and Over-smoothing},
-    author={Yunchong Song and Chenghu Zhou and Xinbing Wang and Zhouhan Lin},
-    booktitle={The Eleventh International Conference on Learning Representations},
-    year={2023}
-}
+Song, Y., Zhou, C., Wang, X., Lin, Z., 2023. Ordered GNN: Ordering message passing to deal with heterophily and over-smoothing, in: The Eleventh International Conference on Learning Representations.
 ```
